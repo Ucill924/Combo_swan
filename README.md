@@ -1,3 +1,15 @@
+ _    _   _____  _      _       _       
+| |  | | |_   _|| |    | |     (_)      
+| |  | |   | |  | |    | |      _  __ _ 
+| |  | |   | |  | |    | |     | |/ _` |
+| |__| |  _| |_ | |____| |____ | | (_| |
+ \____/  |_____| \_____|______||_|\__,_|
+
+
+
+
+
+
 # Multiclaim Daily Swan Combo Bot
 
 ## Deskripsi
@@ -5,12 +17,10 @@ Bot Python ini secara otomatis melakukan multi-claim harian pada Swan Combo. Bot
 
 ## Fitur
 - Multi-claim harian otomatis
-- Konfigurasi mudah
-- Efisiensi tinggi
-
+- Konfigurasi di token.txt
+- 
 ## Prasyarat
 - Python 3.8 atau lebih baru
-- Pustaka tambahan (tercantum di `requirements.txt`)
 
 ## Instalasi
 1. Klon repositori ini:
